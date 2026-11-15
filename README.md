@@ -1,4 +1,4 @@
-# Customer Accounts Microservice
+# DevOps Capstone
 
 [![CI Build](https://github.com/darkrazz/customer-accounts-microservice/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/darkrazz/customer-accounts-microservice/actions)
 
